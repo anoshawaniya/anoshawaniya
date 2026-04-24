@@ -4,7 +4,7 @@
 ---
 
 ## 👩‍💻 About Me
-🎓 Software Engineering Student at Jinnah University for Women (2022–2026)  
+🎓 Software Engineering Graduate (2022–2026)  
 💡 Passionate about building **user-friendly and impactful digital experiences**  
 🚀 Experienced in **MERN Stack Development & Frontend Design**  
 📊 Exploring **Business Intelligence (Power BI) & Cloud Technologies**  
