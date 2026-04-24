@@ -78,7 +78,15 @@ Tech: HTML, CSS, JavaScript
 
 ## 🌐 Connect With Me
 📧 Email: anoshawaniya@gmail.com  
+<p align="left">
+<a href="https://www.linkedin.com/in/anosha-waniya-b20761264/?originalSubdomain=pk" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-Anosha%20Waniya-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
+<a href="https://www.instagram.com/anoshawaniya9" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-anoshawaniya9-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 
 ---
 
